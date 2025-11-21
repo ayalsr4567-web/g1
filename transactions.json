@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Salary",
+    "time": "2025-11-21 18:16:00",
+    "balance": 25000,
+    "remarks": "Giii"
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "444",
     "time": "2025-11-21 17:21:18",
