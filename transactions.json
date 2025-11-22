@@ -1,25 +1,5 @@
 [
   {
-    "type": "AGENT SALARY",
-    "detail": "Salary",
-    "time": "2025-11-21 18:16:00",
-    "balance": 25000,
-    "remarks": "Giii"
-  },
-  {
-    "type": "AGENT BONUS",
-    "detail": "444",
-    "time": "2025-11-21 17:21:18",
-    "balance": 100,
-    "remarks": "4455 SALARY"
-  },
-  {
-    "type": "AGENT COMMISSION",
-    "detail": "Commission",
-    "time": "2025-11-13 01:00:00",
-    "balance": 27533.92
-  },
-  {
     "type": "AGENT COMMISSION",
     "detail": "Commission",
     "time": "2025-11-14 01:00:00",
