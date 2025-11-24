@@ -348,5 +348,30 @@
       "All": [],
       "Tier 1": []
     }
+  },
+  {
+    "date": "2025-11-22",
+    "stats": {
+      "All": {
+        "depositNumber": 1452,
+        "depositAmount": 1252320,
+        "numBettors": 5096,
+        "totalBet": 6125328.81,
+        "numFirstDeposit": 352,
+        "firstDepositAmount": 315610
+      },
+      "Tier 1": {
+        "depositNumber": 586,
+        "depositAmount": 599540,
+        "numBettors": 1098,
+        "totalBet": 2563289.71,
+        "numFirstDeposit": 158,
+        "firstDepositAmount": 112520
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
   }
 ]
