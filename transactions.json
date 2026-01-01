@@ -1,6 +1,13 @@
 [
   {
     "type": "AGENT SALARY",
+    "detail": "Withdraw",
+    "time": "2026-01-01 09:38:00",
+    "balance": 41510,
+    "remarks": "-"
+  },
+  {
+    "type": "AGENT SALARY",
     "detail": "Bonus",
     "time": "2026-01-01 08:30:00",
     "balance": 25000,
