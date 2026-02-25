@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2026-02-25 08:30:00",
+    "balance": 40000,
+    "remarks": "Fix salary + ads fund"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Bonus",
     "time": "2026-02-25 01:00:00",
