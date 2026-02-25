@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "Bonus",
+    "time": "2026-02-24 08:30:00",
+    "balance": 25000,
+    "remarks": "Daily Fix salary 23 Feb"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Bonus",
     "time": "2026-02-24 01:00:00",
