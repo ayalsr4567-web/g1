@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISSION",
+    "detail": "Bonus",
+    "time": "2026-03-02 01:00:00",
+    "balance": 1415.96,
+    "remarks": "-"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdrawal",
     "time": "2026-03-01 20:34:00",
