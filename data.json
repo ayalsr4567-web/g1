@@ -1,22 +1,22 @@
 {
-  "commission": 10589.26,
+  "commission": 14958.28,
   "direct": {
-    "register": 325,
-    "deposit_number": 514,
-    "deposit_amount": 291620,
-    "first_deposit": 102
+    "register": 367,
+    "deposit_number": 508,
+    "deposit_amount": 375290,
+    "first_deposit": 114
   },
   "team": {
-    "register": 811,
-    "deposit_number": 863,
-    "deposit_amount": 496250,
-    "first_deposit": 355
+    "register": 896,
+    "deposit_number": 718,
+    "deposit_amount": 411630,
+    "first_deposit": 294
   },
   "promotion": {
-    "this_week": 31455.29,
-    "total_commission": 796315.15,
-    "direct_subordinates": 21588,
-    "team_subordinates": 79635
+    "this_week": 38948.28,
+    "total_commission": 614528.55,
+    "direct_subordinates": 21458,
+    "team_subordinates": 75688
   },
   "invitation": {
     "code": "255111773925"
