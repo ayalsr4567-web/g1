@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISSION",
+    "detail": "Agent Commission",
+    "time": "2026-03-30 01:00:00",
+    "balance": 14352.83,
+    "remarks": "-"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Withdrawal",
     "time": "2026-03-26 06:47:00",
