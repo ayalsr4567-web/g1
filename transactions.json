@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "daily salary",
+    "time": "2026-04-04 08:30:00",
+    "balance": 20000,
+    "remarks": "-"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "Agent Commission",
     "time": "2026-04-04 01:00:00",
